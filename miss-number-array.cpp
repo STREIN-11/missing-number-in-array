@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 class Solution{
   public:
     int MissingNumber(vector<int>& array, int n) {
