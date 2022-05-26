@@ -9,6 +9,7 @@ class Solution{
         return sum;
     }
 };
+
 //Driver Code {
 int main(){
     int t;
