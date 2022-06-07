@@ -11,6 +11,7 @@ class Solution{
 };
 
 //Driver Code {
+
 int main(){
     int t;
     cin>>t;
